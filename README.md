@@ -23,8 +23,6 @@ Conduct usability testing to improve the clarity of visual cues, navigation, and
 Deploy & Monitor:
 Launch the prototype, collect user feedback, and enhance recommendations based on behavioral data.
 
-
-## Output:
 ### 1. Solution Ideation: Fitness & Food App
 
 #### Method Used: Brainwriting Ideation Exercise
@@ -51,13 +49,11 @@ Eight creative ideas were generated to merge health tracking and food ordering:
 
 Using diverse personas (gym-goer, office worker, homemaker, athlete, diabetic patient), the following stories were created:
 
-| # | User Story                                                                                     |
-| - | ---------------------------------------------------------------------------------------------- |
-| 1 | As a gym-goer, I want to order high-protein meals so that I can meet my fitness goals.                   |
-| 2 | As an office worker, I want quick healthy lunch options so that I can save time during breaks.            |
-| 3 | As a homemaker, I want to track family nutrition so that everyone eats balanced meals. |
-| 4 | As an athlete, I want to sync my smartwatch data so that I can track calories accurately.    |
-| 5 | As a diabetic patient, I want sugar-free meal recommendations so that I can manage my health better.    |
+1. As a gym-goer, I want to order high-protein meals so that I can meet my fitness goals.
+2. As an office worker, I want quick healthy lunch options so that I can save time during breaks.
+3. As a homemaker, I want to track family nutrition so that everyone eats balanced meals.
+4. As an athlete, I want to sync my smartwatch data so that I can track calories accurately.
+5. As a diabetic patient, I want sugar-free meal recommendations so that I can manage my health better.
 
 ### 3. Creating Scenarios
 
@@ -148,6 +144,10 @@ Home
  │   └── Help Center
 
 ```
+
+## Output:
+
+<img width="1486" height="914" alt="image" src="https://github.com/user-attachments/assets/6b6a7595-e3c2-4a04-824c-f4353f599dd4" />
 
 ## Result:
 
